@@ -275,6 +275,7 @@ cim <-
                  call. = FALSE)
         
         choices = c("ward.D",
+                    "ward.D2",
                     "single",
                     "complete",
                     "average",
